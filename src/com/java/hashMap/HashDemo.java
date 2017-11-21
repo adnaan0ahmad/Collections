@@ -47,7 +47,7 @@ public class HashDemo {
 	
 	
 	//-----------Remove Employee with lowest salary------------//
-	
+/*	
 	Set s1 = hmap.entrySet();
 	TreeSet t = new TreeSet(hmap.values());
 	//Employee el = (Employee)t.first();
@@ -65,7 +65,7 @@ public class HashDemo {
 		}
 		
 	}
-	System.out.println(s1);
+	System.out.println(s1);*/
 	
 	//-----------Change Salary of a particular Employee------------//
 
